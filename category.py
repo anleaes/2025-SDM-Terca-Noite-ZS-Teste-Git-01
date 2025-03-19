@@ -3,5 +3,5 @@ class Category:
         self._name = name
         self._description = description
 
-        def __str__(self):
-            return f"Nome: {self._name} - Descrição:  {self._description}"
+    def __str__(self):
+        return f"Nome: {self._name} - Descrição:  {self._description}"
