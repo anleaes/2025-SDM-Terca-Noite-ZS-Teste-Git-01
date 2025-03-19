@@ -3,6 +3,7 @@ from socialnetwork import Socialnetwork
 from person import Person
 from client import Client
 from client_socialnetwork import ClientSocialnetwork
+from order import Order
 
 def main():
     cat1 = Category("Tec", "Tecno products")
