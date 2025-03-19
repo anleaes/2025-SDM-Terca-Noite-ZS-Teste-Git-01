@@ -1,5 +1,6 @@
 from category import Category
 from socialnetwork import Socialnetwork
+from person import Person
 from client import Client
 
 def main():
