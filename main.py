@@ -1,5 +1,6 @@
 from category import Category
 from socialnetwork import Socialnetwork
+from client import Client
 
 def main():
     cat1 = Category("Tec", "Tecno products")
