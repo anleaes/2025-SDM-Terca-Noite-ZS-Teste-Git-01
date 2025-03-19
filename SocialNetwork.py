@@ -7,3 +7,4 @@ class Socialnetwork:
     def __str__(self):
         return f"Socialnetwork(name={self._name}, description={self._description})"
     
+    
